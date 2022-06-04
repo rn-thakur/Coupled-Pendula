@@ -1,4 +1,3 @@
-from telnetlib import X3PAD
 from vpython import *
 import numpy as np
 
